@@ -14,6 +14,25 @@ This project is intended to support research and analysis related to the cryptoc
 - Respect opt-out and removal requests.
 - Avoid sharing or publishing sensitive personal information unnecessarily.
 
+## Donation Payment Addresses
+
+Donations may be sent using the following cryptocurrency networks and assets:
+
+| Cryptocurrency | Code | Network | Donation Address |
+|---|---|---|---|
+| Bitcoin | BTC | Bitcoin | `bc1qafz5x0usq2m7h83zv0m63cqlnq75fcsdtcyvmy` |
+| Ether | ETH | Ethereum | `0x3dA08bf3A1dC202FB1B8d829AE0e0Ab5B36f99E4` |
+| Solana | SOL | Solana | `ZjTd5B38TzXFQ9L1AtZY91Mfbd4zAR37sSg7S1xmWvj` |
+| BNB | BNB | BNB Smart Chain (BSC) | `0x3dA08bf3A1dC202FB1B8d829AE0e0Ab5B36f99E4` |
+| TRON | TRX | TRON | `TJuNFS8xoWgZps9qB4ee1acqGgmUrKSJ1N` |
+| Litecoin | LTC | Litecoin | `ltc1qgtnfzpuyr56enecjxudntzeacyd8ca62wyvw22` |
+| Tether USD | USDT | Ethereum (ERC-20) | `0x3dA08bf3A1dC202FB1B8d829AE0e0Ab5B36f99E4` |
+| Tether USD | USDT | TRON (TRC-20) | `TJuNFS8xoWgZps9qB4ee1acqGgmUrKSJ1N` |
+| Tether USD | USDT | BNB Smart Chain (BEP-20) | `0x3dA08bf3A1dC202FB1B8d829AE0e0Ab5B36f99E4` |
+| USD Coin | USDC | Ethereum | `0x3dA08bf3A1dC202FB1B8d829AE0e0Ab5B36f99E4` |
+
+> **Important:** Verify the cryptocurrency and network carefully before sending a donation. Sending an asset through an unsupported network may result in permanent loss of funds.
+
 ## Disclaimer
 
 Users of this project are responsible for ensuring that their use of the information complies with applicable laws, regulations, and privacy requirements.
