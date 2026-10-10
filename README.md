@@ -14,6 +14,17 @@ This project is intended to support research and analysis related to the cryptoc
 - Respect opt-out and removal requests.
 - Avoid sharing or publishing sensitive personal information unnecessarily.
 
+## Contact
+
+For questions about this project or inquiries about purchasing private crypto email addresses, please use one of the following contact methods:
+
+- **QTox:** `0B076F09A8ED27D87FED7DFA1F13CF5ECFD4912B001E45EDDA1C35E99D3F8D055FBD516BD374`
+- **XMPP:** `burgerdiplomatski@5222.de`
+- **Session:** `05448e478b56e0be7fe1b41ea08dbc20c2ff075f5e3ebb39ad5a4ba1f88755c067`
+- **Matrix:** `@BurgerDiplomatSki:matrix.org`
+
+Please use these channels for legitimate inquiries and respect applicable privacy and data-protection requirements.
+
 ## Donation Payment Addresses
 
 Donations may be sent using the following cryptocurrency networks and assets:
